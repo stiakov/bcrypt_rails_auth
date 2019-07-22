@@ -1,0 +1,5 @@
+{
+  "name": "bcrypt_auth",
+  "private": true,
+  "dependencies": {}
+}
